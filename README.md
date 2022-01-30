@@ -1,4 +1,4 @@
-# signal-peak-bottom-finder-MATLAB
+# Detect Peaks and Bottoms of ECG Image Signals in MATLAB
 
 This project detects the peaks and bottoms of ECG image signals using MATLAB. 
 
